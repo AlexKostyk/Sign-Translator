@@ -1,0 +1,52 @@
+/* Заголовок */
+div.st-emotion-cache-183lzff {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+
+/* Кнопка отправить под textarea */
+button.st-emotion-cache-7ym5gk { 
+    display: flex;
+    margin-left: auto;
+}
+
+video {
+    width: 75% !important;
+    margin-left: 12.5%;
+}
+
+.st-c9 {
+    transition: none;
+}
+
+.st-e6 {
+    -webkit-text-fill-color: black;
+}
+
+.translate-sentence {
+    font-size: 18px;
+    margin: 10px 0 10px 0;
+}
+
+.highlighted-word {
+    /* padding: 0 2px 0 2px;
+    background-color: #f0f2f6;
+    border-radius: 10px; */
+    color: #ff4b4b;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.translate-word {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.translate-border {
+    padding: 16px;
+    background-color: #f0f2f6;
+    border-radius: 8px;
+}
